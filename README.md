@@ -1,9 +1,11 @@
-# Note
+----------------------------------------------------------------
+# Note by pha.zx
 Path to FontAwesome.ttf has been rectified in *fontawesome.sty* to avoid font-not-found error.
 
-# Usage
-1. ``cd examples``
-2. ``xelatex resume.tex``
+# Usage by pha.zx
+Step 1. ``cd examples``
+Step 2. ``xelatex resume.tex``
+----------------------------------------------------------------
 
 <h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
