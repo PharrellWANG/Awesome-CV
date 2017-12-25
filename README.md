@@ -4,7 +4,9 @@
 Path to FontAwesome.ttf has been rectified in *fontawesome.sty* to avoid font-not-found error.
 
 # Usage by pha.zx
+
 Step 1. ``cd examples``
+
 Step 2. ``xelatex resume.tex``
 
 ----------------------------------------------------------------
